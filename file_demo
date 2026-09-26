@@ -1,0 +1,10 @@
+Adding instructions on how to push in Git
+
+first create folder or file:
+git status
+git add .
+git commit -m "mssg"
+git status
+git pull
+git push / git push -u origin main
+
